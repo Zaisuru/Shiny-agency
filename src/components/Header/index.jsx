@@ -1,7 +1,7 @@
 import { Link, NavigationContainer } from "react-router-dom";
 import styled from "styled-components";
 import colors from "../../utils/style/colors";
-import fonts from "../../utils/style/fons";
+import fonts from "../../utils/style/fonts";
 
 import DarkLogo from "../../assets/dark-logo.png";
 import LightLogo from "../../assets/light-logo.png";
